@@ -36,7 +36,8 @@ utiliser et intuitives .
 b) Description des acteurs et fonctionnalités attendues du projet :
 Notre système domotique va offrir une gamme variée de fonctionnalités répondant aux
 besoins et aux préférences individuels des utilisateurs.
-Notre projet possède un seul type d’acteur qui est l’utilisateur.
+Notre projet possède un seul type d’acteur qui est l’utilisateur
+
 L’utilisateur : cet acteur a le droit de se servir de notre plateforme domotique à distance ou
 localement en utilisant son téléphone portable ou bien son ordinateur. Il interagit avec le
 logiciel via une interface utilisateur graphique (IHM).
@@ -51,3 +52,5 @@ réception des alertes lors des scénarios anormaux ( via des appareils connect�
 smartphone ou ordinateur par exemple ).
 ● Automatisation des tâches : la possibilité d’ouvrir/ fermer les portes et les volets, à
 distance pour les visiteurs autorisés.
+
+[domotique-AGL-conception-préliminaire.pdf](https://github.com/nouhabennasr/AGLproject/files/15146246/domotique-AGL-conception-preliminaire.pdf)
