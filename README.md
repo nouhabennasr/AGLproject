@@ -1,4 +1,4 @@
-# AGLprojectSpécifications du projet :
+![438083339_392355316958846_3219458332132396786_n](https://github.com/nouhabennasr/AGLproject/assets/168307999/1d36b64e-5135-4ef1-9030-1fe005588f32)# AGLprojectSpécifications du projet :
 a) Notions de base et contraintes du projet :
 Les systèmes domotiques se basent sur l'utilisation de capteurs, d'actionneurs et de
 contrôleurs pour surveiller l'environnement domestique et prendre des décisions en fonction
@@ -70,6 +70,8 @@ smartphone ou ordinateur par exemple ).
 
 ● Automatisation des tâches : la possibilité d’ouvrir/ fermer les portes et les volets, à
 distance pour les visiteurs autorisés.
+
+![CAP][Uploading 438083339_392355316958846_3219458332132396786_n.jpg…]()
 
 
 [domotique AGL Spécifications.pdf](https://github.com/nouhabennasr/AGLproject/files/15146254/domotique.AGL.Specifications.pdf)
