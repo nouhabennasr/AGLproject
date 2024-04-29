@@ -53,4 +53,8 @@ smartphone ou ordinateur par exemple ).
 ● Automatisation des tâches : la possibilité d’ouvrir/ fermer les portes et les volets, à
 distance pour les visiteurs autorisés.
 
-[domotique-AGL-conception-préliminaire.pdf](https://github.com/nouhabennasr/AGLproject/files/15146246/domotique-AGL-conception-preliminaire.pdf)
+
+[domotique AGL Spécifications.pdf](https://github.com/nouhabennasr/AGLproject/files/15146254/domotique.AGL.Specifications.pdf)
+[domotique-AGL-conception-préliminaire.pdf](https://github.com/nouhabennasr/AGLproject/files/15146264/domotique-AGL-conception-preliminaire.pdf)
+[domotique-AGL-conception-détaillée.pdf](https://github.com/nouhabennasr/AGLproject/files/15146265/domotique-AGL-conception-detaillee.pdf)
+[domotique AGL suite conception détaillée et préparation de tests unitaires.pdf](https://github.com/nouhabennasr/AGLproject/files/15146268/domotique.AGL.suite.conception.detaillee.et.preparation.de.tests.unitaires.pdf)
