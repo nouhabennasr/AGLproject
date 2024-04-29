@@ -71,6 +71,14 @@ smartphone ou ordinateur par exemple ).
 
 ● Automatisation des tâches : la possibilité d’ouvrir/ fermer les portes et les volets, à
 distance pour les visiteurs autorisés.
+Test	1	2	3	4
+Precondition				
+Have an account	F	T	T	T
+Internet connection	F	T	T	
+Platform installed	F	T		
+Postcondition				
+Access to CasaControl control interface	F	F	F	T
+Number of tests	1	1	1	1
 
 ![CAP][Uploading 438083339_392355316958846_3219458332132396786_n.jpg…]()
 
