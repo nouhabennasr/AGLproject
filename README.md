@@ -1,4 +1,4 @@
-![438083339_392355316958846_3219458332132396786_n](https://github.com/nouhabennasr/AGLproject/assets/168307999/1d36b64e-5135-4ef1-9030-1fe005588f32)# AGLprojectSpécifications du projet :
+# AGLprojectSpécifications du projet :
 a) Notions de base et contraintes du projet :
 Les systèmes domotiques se basent sur l'utilisation de capteurs, d'actionneurs et de
 contrôleurs pour surveiller l'environnement domestique et prendre des décisions en fonction
@@ -11,6 +11,7 @@ tablettes ou ordinateurs, offrant ainsi aux utilisateurs la possibilité de gér
 équipements même lorsqu'ils sont absents.
 
 Les contraintes peuvent être des obstacles à ces notions de ce système, tels que :
+![438083339_392355316958846_3219458332132396786_n](https://github.com/nouhabennasr/AGLproject/assets/168307999/1d36b64e-5135-4ef1-9030-1fe005588f32)
 
 ● L’intégration étroite de capteurs (par exemple, capteurs de mouvement,
 détecteurs de fumée) et d'une variété d’actionneurs (comme les lumières, les
